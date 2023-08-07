@@ -10,7 +10,10 @@ You will find 'Wordpress-Auto-Decorative-Alt' menu in your WordPress admin panel
 
 ## License
 
-This project is licensed under the [License Name](LICENSE.md).
+This project is licensed under the [GNU General Public License v3.0](LICENSE.md).
 
-### Contact
+## Info
+
+For more info on this project check out my medium blog 
+https://ben-ferdinands.medium.com/
 
