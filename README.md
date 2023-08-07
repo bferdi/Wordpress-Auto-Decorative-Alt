@@ -17,3 +17,8 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE.md)
 For more info on this project check out my medium blog 
 https://ben-ferdinands.medium.com/
 
+## Additional Resources 
+
+See the WCAG for more details on how / when this should be implemented 
+https://www.w3.org/WAI/tutorials/images/decorative/
+
